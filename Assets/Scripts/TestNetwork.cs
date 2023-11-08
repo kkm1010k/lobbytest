@@ -35,7 +35,7 @@ public class TestNetwork : NetworkBehaviour
     private string playerClientId = "-1";
     private string playerReady = false.ToString();
 
-    public List<NetworkObject> playerObj;
+    //public List<NetworkObject> playerObj;
     
     private async void Awake()
     {
